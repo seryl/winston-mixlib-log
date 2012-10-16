@@ -1,6 +1,6 @@
 {
   "name": "winston-mixlib-log",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A clone of ruby's mixlib-log for winston",
   "author": "Josh Toft <joshtoft@gmail.com>",
   "repository": {
@@ -8,9 +8,11 @@
     "url": "http://github.com/seryl/winston-mixlib-log.git"
   },
   "keywords": ["logging", "sysadmin", "tools", "winston", "mixlib"],
-  "devDependencies": {
+  "dependencies": {
     "winston": "0.6.x",
-    "cycle": "1.0.x",
+    "cycle": "1.0.x"
+    },
+  "devDependencies": {
     "vows": "0.6.x"
   },
   "main": "./lib/winston-mixlib-log",
