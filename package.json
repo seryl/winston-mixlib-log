@@ -5,7 +5,7 @@
   "author": "Josh Toft <joshtoft@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "http://github.com/seryl/winston-mixlib-log.git"
+    "url": "https://github.com/seryl/winston-mixlib-log.git"
   },
   "keywords": ["logging", "sysadmin", "tools", "winston", "mixlib"],
   "dependencies": {
