@@ -10,6 +10,7 @@
   "keywords": ["logging", "sysadmin", "tools", "winston", "mixlib"],
   "devDependencies": {
     "winston": "0.6.x",
+    "cycle": "1.0.x",
     "vows": "0.6.x"
   },
   "main": "./lib/winston-mixlib-log",

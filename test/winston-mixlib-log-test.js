@@ -10,7 +10,8 @@ var path = require('path'),
     assert = require('assert'),
     winston = require('winston'),
     helpers = require('winston/test/helpers'),
-    transport = require('winston/test/transports/transport')
+    transport = require('winston/test/transports/transport'),
+    MixlibLog = require('../lib/winston-mixlib-log').MixlibLog
 
 vows.describe('winston-mixlib-log').addBatch({
   "An instance of the Mixlib Log Transport": transport(MixlibLog, {})
