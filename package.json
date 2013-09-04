@@ -1,6 +1,6 @@
 {
   "name": "winston-mixlib-log",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A clone of ruby's mixlib-log for winston",
   "author": "Josh Toft <joshtoft@gmail.com>",
   "repository": {
@@ -13,7 +13,6 @@
     "cycle": "1.0.x"
     },
   "devDependencies": {
-    "vows": "0.6.x"
   },
   "main": "./lib/winston-mixlib-log",
   "scripts": { "test": "vows test/*-test.js --spec" },
