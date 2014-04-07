@@ -1,6 +1,6 @@
 {
   "name": "winston-mixlib-log",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "A clone of ruby's mixlib-log for winston",
   "author": "Josh Toft <joshtoft@gmail.com>",
   "repository": {
