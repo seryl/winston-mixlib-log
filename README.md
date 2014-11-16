@@ -14,4 +14,4 @@ Also supports objects like so:
   username: "seryl"
 }
 
-`{"m":"create_user","username":"seryl","s":"info","time":"2013-09-04T19:09:11-07:00"}`
+`{"m":"create_user","username":"seryl","s":"info","t":"2013-09-04T19:09:11-07:00"}`
